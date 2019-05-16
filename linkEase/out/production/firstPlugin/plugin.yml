@@ -1,0 +1,8 @@
+name: firstPlugin
+main: me.hims.firstplugin.firstPlugin
+version: 1.00
+
+
+commands:
+  dick:
+    description: big dongers

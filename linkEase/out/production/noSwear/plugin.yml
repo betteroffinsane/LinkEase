@@ -1,0 +1,14 @@
+name: linkEase
+main: me.noswear.linkEase
+version: 1.00
+
+
+commands:
+  store:
+    description: shows store
+  discord:
+    description: shows discord
+  dc:
+    description: discord also
+  ts:
+    description: assuming teamspeak
